@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: azure;
+}
+#header {
+  background-color: #d0c1e9;
+  border-bottom: 2px solid purple;
+}
+#navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+#navbar a {
+  color: #4150a3;
+  text-decoration: none;
+}
+#navbar li {
+  list-style-type: none;
+  padding: 10px;
+  border: 2px solid navy;
+  border-radius: 20px;
+  background-color: #ede3fd;
+}background-color: aliceblue;
+}
+#navbar li:hover {
+  b
